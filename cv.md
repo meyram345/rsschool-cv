@@ -1,3 +1,5 @@
-### Full Name:Adilkhan Miram
-*Contacts: +77759838746*
-Я студент 3-курса, учусь по специальности **Big Data Analysis**
+### Adilkhan Miram
+**Contacts**
+*Email:miramadilkhan73@gmail.com*
+*Phone Number:+77759838746*
+
