@@ -15,11 +15,20 @@ Other skills:
 * Statistics
 * Data analysis
 
+### Code
+``` javascript
+function checkAlive (health) {
+  if (health <= 0) {
+    return false
+  } else {
+    return true
+  }
+}
+```
+
 ### Education
 **Astana IT University**
 * Bachelor's degree in Big Data Analysis
 * Expected to graduate in June 2023
 * GPA 3.3
-
-### Languages
-**English C1**
+* English C1
