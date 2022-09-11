@@ -16,7 +16,7 @@ Other skills:
 * Data analysis
 
 ### Projects:
-1. [CV] (https://github.com/meyram345/rsschool-cv/tree/gh-pages)
+1. [CV](https://github.com/meyram345/rsschool-cv/tree/gh-pages)
 
 ### Code
 ``` javascript
