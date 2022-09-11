@@ -2,6 +2,7 @@
 ### Contacts:
 *Email: miramadilkhan73@gmail.com*   
 *Phone Number: +7(775)983-87-46*   
+*Discord: @meyram345*
 
 ### About
 I'm a student majoring in Big Data Analysis. Found to myself that learning frond-end is needed and interesting for me.  
